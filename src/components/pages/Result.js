@@ -1,5 +1,5 @@
-import Analysis from "../components/Analysis";
-import Summary from "../components/Summary";
+import Analysis from "../Analysis";
+import Summary from "../Summary";
 
 export default function Result() {
   return (
